@@ -1,0 +1,16 @@
+
+---
+
+## ⚙️ 2. `pubspec.yaml`
+
+This file declares your project details and dependencies:
+
+```yaml
+name: biodata_generator
+description: A simple Dart CLI app for generating formatted biodata.
+version: 1.0.0
+environment:
+  sdk: ">=2.18.0 <3.0.0"
+
+dependencies:
+  ansi_styles: ^0.3.2
